@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pixoll
 - 👀 I’m interested in back-end programming
-- 📋 I currently know JavaScript, and a bit of HTML and CSS
+- 📋 I currently know Node.js, TS, and a bit of HTML and CSS
 - 🌱 I’m currently learning TypeScript and C++
 - 💞️ I’m looking to collaborate on Discord.js
 
