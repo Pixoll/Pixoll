@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pixoll
 - 👀 I’m interested in back-end programming
 - 📋 I currently know Node.js, TS, and a bit of HTML, CSS and Python
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C and Java
 - 🔗 Check out my Gists [here](https://gist.github.com/Pixoll).
 - 🔗 Check out my GitLab [here](https://gitlab.com/Pixoll).
 
