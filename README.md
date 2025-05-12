@@ -1,4 +1,4 @@
 - Computer Science student
-- C/C++, Java, Python, TypeScript
+- C/C++, Java, Python, TypeScript (React, Nest.js), Kotlin (Android)
 - Gists: https://gist.github.com/Pixoll
 - GitLab: https://gitlab.com/Pixoll
